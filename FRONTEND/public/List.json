@@ -1,0 +1,470 @@
+[
+    {
+        "bookname": "The Hunger Games",
+        "authorname": "Suzanne Collins",
+        "category": "Science fiction",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/The_Hunger_Games.jpg",
+        "qty": "1",
+        "availability": true,
+        "description": "In a dystopian future, the totalitarian nation of Panem is divided into 12 districts and the Capitol. Each year two young representatives from each district are selected by lottery to participate in The Hunger Games. Part entertainment, part"
+    },
+    {
+        "bookname": "The Women: A Novel",
+        "authorname": "Kristin Hannah",
+        "category": "Historical fiction",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/da/The_Women_Kristin_Hannah_book_cover.jpg",
+        "qty": "1",
+        "availability": false,
+        "description": "In a dystopian future, the totalitarian nation of Panem is divided into 12 districts and the Capitol. Each year two young representatives from each district are selected by lottery to participate in The Hunger Games. Part entertainment, part"
+    },
+    {
+        "bookname": "The Infinity Gauntlet",
+        "authorname": "Jim Starlin",
+        "category": "Comics",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/af/Infinity_Gauntlet_1.jpg",
+        "qty": "1",
+        "availability": true,
+        "description": "In a dystopian future, the totalitarian nation of Panem is divided into 12 districts and the Capitol. Each year two young representatives from each district are selected by lottery to participate in The Hunger Games. Part entertainment, part"
+    },
+    {
+        "bookname": "Beach Read",
+        "authorname": "Emily Henry",
+        "category": "Romance",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/1a/Beach_Read.jpg",
+        "qty": "1",
+        "availability": false,
+        "description": "In a dystopian future, the totalitarian nation of Panem is divided into 12 districts and the Capitol. Each year two young representatives from each district are selected by lottery to participate in The Hunger Games. Part entertainment, part"
+    },
+    {
+        "bookname": "Origins Of Marvel Comics",
+        "authorname": "Fred Van Lente",
+        "category": "Comics",
+        "image": "https://m.media-amazon.com/images/I/A1ITx+eYUeL._SY342_.jpg",
+        "qty": "1",
+        "availability": false,
+        "description": "In a dystopian future, the totalitarian nation of Panem is divided into 12 districts and the Capitol. Each year two young representatives from each district are selected by lottery to participate in The Hunger Games. Part entertainment, part"
+    },
+    {
+        "bookname": "Dune",
+        "authorname": "Frank Herbert",
+        "category": "Science fiction",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/de/Dune-Frank_Herbert_%281965%29_First_edition.jpg",
+        "qty": "1",
+        "availability": true,
+        "description": "In a dystopian future, the totalitarian nation of Panem is divided into 12 districts and the Capitol. Each year two young representatives from each district are selected by lottery to participate in The Hunger Games. Part entertainment, part"
+    },
+    {
+        "bookname": "The Haunting of Hill House",
+        "authorname": "Shirley Jackson",
+        "category": "Horror",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327871336i/89717.jpg",
+        "qty": "5",
+        "availability": true,
+        "description": "The Haunting of Hill House by Shirley Jackson is a chilling tale that follows four people as they stay in a supposedly haunted mansion. As they experience unexplained events and unearth the house's dark history, they begin to question their own sanity."
+    },
+    {
+        "bookname": "The Alchemist",
+        "authorname": "Paulo Coelho",
+        "category": "Philosophical fiction",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TheAlchemist.jpg/330px-TheAlchemist.jpg",
+        "qty": "1",
+        "availability": true,
+        "description": "'The Alchemist' is a book that is full of wisdom and valuable lessons that can inspire us to live more purposeful and meaningful lives. The book encourages us to follow our dreams, trust in the journey, and embrace the challenges and opportunities that come our way."
+    },
+    {
+        "bookname": "The Lord of the Rings",
+        "authorname": "J.R.R. Tolkien",
+        "category": "Fantasy",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/First_Single_Volume_Edition_of_The_Lord_of_the_Rings.gif",
+        "qty": "1",
+        "availability": true,
+        "description": "The Lord of the Rings by J.R.R. Tolkien tells the story of the War of the Ring in the fictional world of Middle-earth."
+    },
+    {
+        "bookname": "The Great Gatsby",
+        "authorname": "F. Scott Fitzgerald",
+        "category": "Classic",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg",
+        "qty": "1",
+        "availability": true,
+        "description": "The Great Gatsby, novel by American author F. Scott Fitzgerald, published in 1925. It tells the story of Jay Gatsby, a self-made millionaire, and his pursuit of Daisy Buchanan, a wealthy young woman whom he loved in his youth."
+    },
+    {
+        "bookname": "To Kill a Mockingbird",
+        "authorname": "Harper Lee",
+        "category": "Classic",
+        "image": "https://m.media-amazon.com/images/I/81gepf1eMqL._SY342_.jpg",
+        "qty": "1",
+        "availability": true,
+        "description": "To Kill a Mockingbird is a 1961 novel by Harper Lee. Set in small-town Alabama, the novel is a bildungsroman, or coming-of-age story, and chronicles the childhood of Scout and Jem Finch as their father Atticus defends a Black man falsely accused of rape. Scout and Jem are mocked by classmates for this."
+    },
+    {
+        "bookname": "The Wind on the Haunted Hill",
+        "authorname": "Ruskin Bond",
+        "category": "Horror",
+        "image": "https://m.media-amazon.com/images/I/91TBcPLZqJL._SY342_.jpg",
+        "qty": "1",
+        "availability": false,
+        "description": "A 12-year-old girl Usha is forced to take shelter in the ruins after being caught in a downpour and howling wind on her way back from the bazaar. The elder sister doesn't know that her younger siblings are in the ruins and they don't know she is there."
+    },
+    {
+        "bookname": "The Amityville Horror",
+        "authorname": "Jay Anson",
+        "category": "Horror",
+        "image": "https://m.media-amazon.com/images/I/61JwiYeoFtL._SY342_.jpg",
+        "qty": "3",
+        "availability": true,
+        "description": "This book follows the “real” life experiences of the Lutz family, who move into a house in Amityville, Long Island, New York in 1975. The same house where Ronald Defoe Jr. murdered his entire family the year before. There, the Lutz family experiences a paranormal haunting."
+    },
+    {
+        "bookname": "IT",
+        "authorname": "Stephen King",
+        "category": "Horror",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1334416842i/830502.jpg",
+        "qty": "10",
+        "availability": true,
+        "description": "The story follows the experiences of seven children as they are terrorized by an evil entity that exploits the fears of its victims to disguise itself while hunting its prey. 'It' primarily appears in the form of Pennywise the Dancing Clown to attract its preferred prey of young children."
+    },
+    {
+        "bookname": "The Shining",
+        "authorname": "Stephen King",
+        "category": "Horror",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Shining_%281977%29_front_cover%2C_first_edition.jpg/330px-The_Shining_%281977%29_front_cover%2C_first_edition.jpg",
+        "qty": "1",
+        "availability": true,
+        "description": "'The Shining' is a Gothic horror novel about a family being the care takers of The Overlook. The Overlook is a hotel in the Colorado Mountains which needs to be tended to when it is closed during the winter months. However, the hotel has an evil past and presence. The evil of the hotel destroys the family."
+    },
+    {
+        "bookname": "The Surprise Party",
+        "authorname": "R.L. Stine",
+        "category": "Horror",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441893940i/176637.jpg",
+        "qty": "1",
+        "availability": true,
+        "description": "The Surprise Party is an inspired, powerful guide and overview to a personal journey into the teachings of The Four Healing Insights and The Four Discovery Insights. These insights are a map to finding a new happiness within and a new freedom of loving yourself above all."
+    },
+    {
+        "bookname": "Pet Sematary",
+        "authorname": "Stephen King",
+        "category": "Horror",
+        "image": "https://m.media-amazon.com/images/I/817K2zMUqjL._SY342_.jpg",
+        "qty": "0",
+        "availability": false,
+        "description": "After tragedy strikes, a grieving father discovers an ancient burial ground behind his home with the power to raise the dead. Dr. Louis Creed's (Midkiff) family moves into the country house of their dreams and discover a pet cemetery at the back of their property."
+    },
+    {
+        "bookname": "Nineteen Eighty-Four",
+        "authorname": "George Orwell",
+        "category": "Dystopian",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/51/1984_first_edition_cover.jpg",
+        "qty": "1",
+        "availability": true,
+        "description": "In a dystopian future, the totalitarian nation of Panem is divided into 12 districts and the Capitol. Each year two young representatives from each district are selected by lottery to participate in The Hunger Games. Part entertainment, part"
+    },
+    {
+        "bookname": "The Godfather",
+        "authorname": "Mario Puzo",
+        "category": "Crime Drama",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f4/Godfather-Novel-Cover.png",
+        "qty": "1",
+        "availability": true,
+        "description": "Originally published in 1969 by G. P. Putnam's Sons, the novel details the story of a fictional Mafia family in New York City and Long Island, headed by Vito Corleone, the Godfather. The novel covers the years 1945 to 1955 and includes the back story of Vito Corleone from early childhood to adulthood."
+    },
+    {
+        "bookname": "Wiseguy",
+        "authorname": "Nicholas Pileggi",
+        "category": "Crime Drama",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f3/Wiseguy_%28book%29_-_bookcover.jpg",
+        "qty": "1",
+        "availability": true,
+        "description": "'Wiseguy' is Henry Hill's story, in fascinating, brutal detail, the never-before-revealed day-to-day life of a working mobster -- his violence, his wild spending sprees, his wife, his mistresses, his code of honor."
+    },
+    {
+        "bookname": "Fight Club",
+        "authorname": "Chuck Palahniuk",
+        "category": "Crime Drama",
+        "image": "https://m.media-amazon.com/images/I/91MBNyp411L._SY342_.jpg",
+        "qty": "1",
+        "availability": true,
+        "description": "Fight Club by Chuck Palahniuk delves into the disillusionment and frustration of the modern man. Through the story of an unnamed protagonist and his alter ego, Tyler Durden, the book explores themes of consumerism, identity, and the desire to break free from societal constraints."
+    },
+    {
+        "bookname": "The Adventures of Sherlock Holmes",
+        "authorname": "Arthur Conan Doyle",
+        "category": "Mystery",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Adventures_of_sherlock_holmes.jpg/330px-Adventures_of_sherlock_holmes.jpg",
+        "qty": "1",
+        "availability": true,
+        "description": "The Adventures of Sherlock Holmes is a collection of twelve short stories by Arthur Conan Doyle. Published in 1892, the stories involve the peculiar exploits of the sharp-witted detective Sherlock Holmes, whose fierce energy and acute observation and reasoning skills enable him to solve the strangest of crimes."
+    },
+    {
+        "bookname": "Harry Potter and the Philosopher's Stone",
+        "authorname": "J.K. Rowling",
+        "category": "Fantasy",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
+        "qty": "0",
+        "availability": true,
+        "description": "The series follows the life of a boy named Harry Potter. In the first book, Harry Potter and the Philosopher's Stone, Harry lives in a cupboard under the stairs in the house of the Dursleys, his aunt, uncle and cousin, who all treat him poorly. At the age of 11, Harry discovers that he is a wizard."
+    },
+    {
+        "bookname": "Vagabond",
+        "authorname": "Takehiko Inoue",
+        "category": "Manga",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/99/Vagabond_%28manga%29_vol._1.png",
+        "qty": "1",
+        "availability": true,
+        "description": "Vagabond is a Japanese epic martial arts manga series written and illustrated by Takehiko Inoue. It portrays a fictionalized account of the life of Japanese swordsman Musashi Miyamoto, based on Eiji Yoshikawa's novel Musashi."
+    },
+    {
+        "bookname": "Berserk",
+        "authorname": "Kentaro Miura, Kouji Mori",
+        "category": "Manga",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Berserk_vol01.png",
+        "qty": "2",
+        "availability": false,
+        "description": "The series follows main character Guts and his story as a mercenary starting when he is a child. He is born from his mother's dead body, and his adoptive mother dies of plague three years later. The leader of the mercenaries, Gambino, teaches him how to fight."
+    },
+    {
+        "bookname": "One Piece",
+        "authorname": "Eiichiro Oda",
+        "category": "Manga",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",
+        "qty": "1",
+        "availability": true,
+        "description": "ONE PIECE is a legendary high-seas quest unlike any other. Luffy is a young adventurer who has longed for a life of freedom ever since he can remember. He sets off from his small village on a perilous journey to find the legendary fabled treasure, ONE PIECE, to become King of the Pirates!"
+    },
+    {
+        "bookname": "Dragon Ball",
+        "authorname": "Akira Toriyama",
+        "category": "Manga",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/DB_Tank%C5%8Dbon.png",
+        "qty": "15",
+        "availability": true,
+        "description": "Dragon Ball tells the tale of a young warrior by the name of Son Goku, a young peculiar boy with a tail who embarks on a quest to become stronger and learns of the Dragon Balls, when, once all 7 are gathered, grant any wish of choice."
+    },
+    {
+        "bookname": "Naruto",
+        "authorname": "Masashi Kishimoto",
+        "category": "Manga",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg",
+        "qty": "0",
+        "availability": false,
+        "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village."
+    },
+    {
+        "bookname": "One Punch Man",
+        "authorname": "Yusuke Murata, ONE",
+        "category": "Manga",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/OnePunchMan_manga_cover.png",
+        "qty": "25",
+        "availability": true,
+        "description": "The story follows the life of an average hero named Saitama who manages to win all of his fights with just one punch. This ends up being the cause of a lot of frustration as he no longer feels the thrill and adrenaline he once felt in battle. After all, what's so good about having overwhelming power?"
+    },
+    {
+        "bookname": "Attack on Titan",
+        "authorname": "Hajime Isayama",
+        "category": "Manga",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Shingeki_no_Kyojin_manga_volume_1.jpg",
+        "qty": "1",
+        "availability": true,
+        "description": "A teenage boy named Eren Jaeger must use his special gift to fight alongside with the military to defeat the titan race. Mankind is on the brink of extinction when these man-eating monsters terrorize everybody and set to destroy the last of human civilization left in the world."
+    },
+    {
+        "bookname": "The Amazing Spider-Man",
+        "authorname": "Stan Lee, Steve Ditko",
+        "category": "Comics",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/54/AmazingSpider-Man1.jpg",
+        "qty": "8",
+        "availability": true,
+        "description": "When high school student Peter Parker is bitten by a radioactive spider, he is given sensational abilities that allow him to crawl up walls, just like a spider! But when tragedy strikes Peter's Uncle Ben, Peter vows to use those abilities for the good of all mankind as the Amazing Spider-Man!"
+    },
+    {
+        "bookname": "Batman: The Killing Joke",
+        "authorname": "Alan Moore",
+        "category": "Comics",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/32/Killingjoke.JPG",
+        "qty": "96",
+        "availability": true,
+        "description": "Batman's greatest enemy, the Joker, attacks Commissioner Gordon and his family in a twisted quest to drive them crazy. Batman tries to find the Joker's hideout before it's too late."
+    },
+    {
+        "bookname": "The 48 Laws Of Power",
+        "authorname": "Robert Greene",
+        "category": "Psychology",
+        "image": "https://m.media-amazon.com/images/I/61J3Uu4jOLL._SY342_.jpg",
+        "qty": "2",
+        "availability": true,
+        "description": "In The 48 Laws of Power, Robert Greene asserts that whether you like it or not, you're part of a never-ending game of power. You're either striving for and wielding power, or you're a pawn being played by someone more powerful than you. You choose your role."
+    },
+    {
+        "bookname": "Monster",
+        "authorname": "Naoki Urasawa",
+        "category": "Manga",
+        "image": "https://m.media-amazon.com/images/I/5176EiZ3eyL._SY445_SX342_.jpg",
+        "qty": "57",
+        "availability": true,
+        "description": "The story revolves around Kenzo Tenma, a Japanese surgeon living in Düsseldorf, Germany whose life enters turmoil after he gets himself involved with Johan Liebert, one of his former patients, who is revealed to be a psychopathic serial killer."
+    },
+    {
+        "bookname": "It Ends With Us",
+        "authorname": "Colleen Hoover",
+        "category": "Romance",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1688011813i/27362503.jpg",
+        "qty": "1",
+        "availability": true,
+        "description": "It Ends with Us is a book that follows a girl named Lily who has just moved and is ready to start her life after college. Lily then meets a guy named Ryle and she falls for him. As she is developing feelings for Ryle, Atlas, her first love, reappears and challenges the relationship between Lily and Ryle."
+    },
+    {
+        "bookname": "Wonder Woman",
+        "authorname": "William Moulton Marston, Harry G. Peter, Elizabeth Holloway Marston",
+        "category": "Comics",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/19/Wonder_woman_01_1942.jpg",
+        "qty": "10",
+        "availability": true,
+        "description": "Wonder Woman's origin story (from Golden to Bronze Age) relates that she was sculpted from clay by her mother Queen Hippolyta and was given a life as an Amazon, along with superhuman powers as gifts by the Greek gods."
+    },
+    {
+        "bookname": "The Dark Knight Returns",
+        "authorname": "Frank Miller, Lynn Varley",
+        "category": "Comics",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/77/Dark_knight_returns.jpg",
+        "qty": "43",
+        "availability": true,
+        "description": "Batman's greatest nemesis, the Joker, re-emerges after having been catatonic for 10 years, his catatonia breaking when he discovers that Batman has returned to Gotham. He convinces the doctors at Arkham Asylum that he is sane and deserves to be released. Once free, he appears on a late night talk show as a PR stunt."
+    },
+    {
+        "bookname": "Batman : The Long Haloween",
+        "authorname": "Jeph Loeb",
+        "category": "Comics",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Batman_thelonghalloween.jpg",
+        "qty": "0",
+        "availability": false,
+        "description": "Working with District Attorney Harvey Dent and Captain James Gordon, Batman races against the calendar as he tries to discover who Holiday is before he claims his next victim each month, while attempting to stop the crime war between two of Gotham City's most powerful families, Maroni and Falcone."
+    },
+    {
+        "bookname": "Doraemon",
+        "authorname": "Fuziko F Fujio",
+        "category": "Manga",
+        "image": "https://m.media-amazon.com/images/I/71rcIc68yWL._SY342_.jpg",
+        "qty": "103",
+        "availability": true,
+        "description": "Doraemon is the name of a robot cat that came from the future to help a boy named Nobita Nobi. Doraemon is about the life of Nobita Nobi. In a typical story Doramon uses a gadget to solve a problem for Nobita, but Nobita goes too far and ends up being punished and learning a lesson."
+    },
+    {
+        "bookname": "Crayon Shin-chan",
+        "authorname": "Yoshito Usui",
+        "category": "Manga",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/92/Crayon_Shin-chan_vol_1_cover.jpg",
+        "qty": "56",
+        "availability": true,
+        "description": "Set in the city of Kasukabe of Saitama Prefecture within the Greater Tokyo Area of Japan, the series follows the adventures of the five-year-old Shinnosuke 'Shin' Nohara and his parents, baby sister, dog, neighbours, and best friends."
+    },
+    {
+        "bookname": "Sacred Games",
+        "authorname": "Vikram Chandra",
+        "category": "Crime Drama",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6a/Sacred_Games_%28novel%29_cover.jpg",
+        "qty": "17",
+        "availability": true,
+        "description": "Vikram Chandra's novel draws the reader deep into the life of Inspector Sartaj Singh—and into the criminal underworld of Ganesh Gaitonde, the most wanted gangster in India. Sartaj, one of the very few Sikhs on the Mumbai police force, is used to being identified by his turban, beard and the sharp cut of his trousers."
+    },
+    {
+        "bookname": "Mein Kampf",
+        "authorname": "Adolf Hitler",
+        "category": "Autobiography",
+        "image": "https://m.media-amazon.com/images/I/51fRb2sgXzL._SY342_.jpg",
+        "qty": "2",
+        "availability": true,
+        "description": "Mein Kampf, political manifesto written by Adolf Hitler. It was his only complete book, and the work became the bible of National Socialism (Nazism) in Germany's Third Reich."
+    },
+    {
+        "bookname": "Bantul the Great",
+        "authorname": "Narayan Debnath",
+        "category": "Comics",
+        "image": "https://m.media-amazon.com/images/I/61auDi2JpIL._SX342_SY445_.jpg",
+        "qty": "50",
+        "availability": true,
+        "description": "He has a great appetite and sometimes has a whale for his breakfast. Unlike other heroes, Batul or Bantul does not wear any attractive attire. Rather, he is always seen clad in a pink or orange vest and black shorts. He is the terror of dacoits and hooligans, and protects the good."
+    },
+    {
+        "bookname": "Tenida Samagra",
+        "authorname": "Narayan Gangopadhyay",
+        "category": "Adventure",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Tenida_samagra.jpg",
+        "qty": "14",
+        "availability": true,
+        "description": "The leader of a group of four young lads who lived in the neighbourhood of Potoldanga, Tenida was depicted as the local big-mouthed airhead, who, although not blessed with academic capabilities, was admired and respected by the other three for his presence of mind, courage, and honesty as well as his vociferous."
+    },
+    {
+        "bookname": "Nonte Phonte",
+        "authorname": "Narayan Debnath",
+        "category": "Comics",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/cd/Nonte_phonte_header.png",
+        "qty": "0",
+        "availability": false,
+        "description": "Nonte and Phonte often perform social services to the community and in many cases end up uncovering crooks who are often under disguises and have beguiled Keltuda and/or the hostel superintendent. In some cases, they are friends with Keltuda and the three of them do good things, or get in trouble."
+    },
+    {
+        "bookname": "Tintin in the Congo",
+        "authorname": "Hergé",
+        "category": "Comics",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/57/The_Adventures_of_Tintin_-_02_-_Tintin_in_the_Congo.jpg",
+        "qty": "1",
+        "availability": true,
+        "description": "The story tells of young Belgian reporter Tintin and his dog Snowy, who are sent to the Belgian Congo to report on events in the country. Amid various encounters with the native Congolese people and wild animals, Tintin unearths a criminal diamond smuggling operation run by the American gangster Al Capone."
+    },
+    {
+        "bookname": "Snow White and the Seven Dwarfs",
+        "authorname": "Wanda Gág",
+        "category": "Fairy Tale",
+        "image": "https://m.media-amazon.com/images/I/81nL6mpAscL._SY342_.jpg",
+        "qty": "5",
+        "availability": true,
+        "description": "The Grimm fairy tale gets a Technicolor treatment in Disney's first animated feature. Jealous of Snow White's beauty, the wicked queen orders the murder of her innocent stepdaughter, but later discovers that Snow White is still alive and hiding in a cottage with seven friendly little miners. Disguising herself as a hag, the queen brings a poisoned apple to Snow White, who falls into a death-like sleep that can be broken only by a kiss from the prince."
+    },
+    {
+        "bookname": "Beauty and the Beast",
+        "authorname": "Gabrielle-Suzanne de Villeneuve",
+        "category": "Fairy Tale",
+        "image": "https://m.media-amazon.com/images/I/61aHJQGRRYL._SY342_.jpg",
+        "qty": "4",
+        "availability": false,
+        "description": "Beauty and the Beast is a story about a young prince that was cast under a spell. His spell could only be broken with true love. Through many ups and downs, he found love with Beauty, and she, in time, returned his love. They marry and the prince's spell is broken, and they live happily ever after."
+    },
+    {
+        "bookname": "Dracula",
+        "authorname": "Bram Stoker",
+        "category": "Horror",
+        "image": "https://m.media-amazon.com/images/I/41nQI7+Es1L._SY445_SX342_.jpg",
+        "qty": "66",
+        "availability": true,
+        "description": "The story of Dracula involves a vampire and his attempts to move to London and begin feeding on the local population. A coalition of protagonists serve as vampire hunters and attempt to stop and destroy Count Dracula."
+    },
+    {
+        "bookname": "The Invisible Man",
+        "authorname": "H. G. Wells",
+        "category": "Science fiction",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Wells_-_The_Invisible_Man_-_Pearson_cover_1897.jpg",
+        "qty": "58",
+        "availability": true,
+        "description": "The narrator of Invisible Man is a nameless young Black man who moves in a 20th-century United States where reality is surreal and who can survive only through pretense. Because the people he encounters “see only my surroundings, themselves, or figments of their imagination,” he is effectively invisible."
+    },
+    {
+        "bookname": "Feluda Samagra",
+        "authorname": "Satyajit Ray",
+        "category": "Mystery",
+        "image": "https://m.media-amazon.com/images/I/31E8GUfBdiL.jpg",
+        "qty": "67",
+        "availability": true,
+        "description": "Pradosh Chandra Mitra, the private detective, is the main character in a series of detective stories written by Satyajit Ray. More familiarly known by his nickname, Feluda, Pradosh Chandra Mitra is a Bengali detective who solves mysteries using his incisive intellect."
+    },
+    {
+        "bookname": "Taranath Tantrik Samagra",
+        "authorname": "Bibhutibhushan Bandyopadhyay, Taradas Bandyopadhyay",
+        "category": "Horror",
+        "image": "https://m.media-amazon.com/images/I/61u5gGJqphL._SY342_.jpg",
+        "qty": "25",
+        "availability": true,
+        "description": "Taranath Tantrik is a mystic figure and practitioner of occult. He lives with his daughter Chari in a house of Mott lane in central Kolkata after having lost most of his supernatural powers because of misuse of Tantra. The person looked like a man in his mid fifties."
+    }
+]
