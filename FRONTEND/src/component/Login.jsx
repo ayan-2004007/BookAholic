@@ -8,6 +8,7 @@ const Login = () => {
     const [password,setPassword]=useState('');
     const [message,setMessage]=useState('');
     const [loading,setLoading]=useState(false);
+    const [userData, setUserData] = useState(null);
     const navigate=useNavigate();
     const goSignup=()=> {
         navigate("/signup");
@@ -17,9 +18,6 @@ const Login = () => {
         e.preventDefault();
         setLoading(true);
         setMessage('');
-        if(username=="admin001" && password=="admin@888"){
-            navigate("/admin")
-        }
         try {
             const response= await axios.post('https://lmsbackend-guhs.onrender.com/users/login', { username, password }, { withCredentials: true });
             const accessToken=response.headers["set-cookie"]
@@ -30,7 +28,15 @@ const Login = () => {
             // console.log(userData)
             setMessage('USER LOGGED IN SUCCESFULLY!');
             setTimeout(()=> {
-                navigate("/user/dashboard");
+                const user=sessionStorage.getItem("userData")
+                if(user){
+                    setUserData(JSON.parse(user));
+                    if(userData.username=="bookAholic2024"){
+                        navigate("/admin")
+                    }else{
+                        navigate("/user/dashboard")
+                    }
+                }
             }, 2000);
         }catch(err){
             const errorMessage=err.response?.data?.message || 'LOGIN FAILED ! CHECK YOUR CREDENTIALS';

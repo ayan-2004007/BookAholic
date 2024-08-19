@@ -30,7 +30,7 @@ const Navbar = ({ showLoginButton }) => {
                     <img src={logo} alt="logo" className="h-9 w-9" />
                     <h1 className="text-white font-['Montserrat'] text-sm">BOOKAHOLIC</h1>
                 </div>
-                <div className="threeline flex flex-col mb-2 space-y-1 cursor-pointer" onClick={toggleMenu}>
+                <div className="threeline flex flex-col space-y-1 cursor-pointer" onClick={toggleMenu}>
                     <div className="h-0.5 w-6 bg-white"></div>
                     <div className="h-0.5 w-6 bg-white"></div>
                     <div className="h-0.5 w-6 bg-white"></div>
@@ -38,7 +38,7 @@ const Navbar = ({ showLoginButton }) => {
             </div>
 
             <div className={`fixed z-50 top-0 left-0 w-screen h-screen bg-black transition-transform flex-col duration-300 transform ${isMenuOpen ? 'translate-y-0' : '-translate-y-[107%]'} lg:hidden`}>
-                <button className="absolute top-6 right-6 text-white text-3xl" onClick={toggleMenu}>&times;</button>
+                <button className="absolute top-2 right-6 text-white text-3xl" onClick={toggleMenu}>&times;</button>
                 <div className="flex flex-col items-center justify-center h-full space-y-8">
                     <button className="text-gray-200 text-sm hover:text-white font-['Montserrat'] duration-150" onClick={() => navigate('/')}>Home</button>
                     <button className="text-gray-200 text-sm hover:text-white font-['Montserrat'] duration-150"onClick={() => navigate('/research')}>Research</button>

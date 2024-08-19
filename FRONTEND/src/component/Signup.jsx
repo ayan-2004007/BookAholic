@@ -95,16 +95,16 @@ const Signup=()=>{
   };
 
   return (
-    <div className='w-screen h-screen bg-cover bg-center flex flex-col items-center justify-between' style={{ backgroundImage: `url(${bg})` }}>
-      <div className='w-screen h-screen bg-cover bg-center flex flex-col justify-between bg-black bg-opacity-45 md:bg-opacity-80 xl:flex-row-reverse xl:items-center'>
+    <div className='w-screen xl:h-auto bg-cover bg-center' style={{ backgroundImage: `url(${bg})` }}>
+      <div className='w-screen xl:h-auto bg-cover bg-center flex flex-col gap-10 sm:gap-16 xl:justify-between bg-black bg-opacity-45 md:bg-opacity-80 xl:flex-row-reverse xl:items-center '>
         <div className='flex flex-col mt-10 space-y-3 pl-5 pt-2 lg:ml-20 xl:ml-0 xl:px-5 xl:space-y-5'>
           <h1 className='text-white font-["Montserrat"] text-3xl md:text-4xl md:font-light xl:text-5xl xl:font-extralight'>ONE OF US ?</h1>
           <p className='text-white font-["Montserrat"] text-sm font-light md:text-[16px] xl:text-lg'>Good to see you again! Let's find your next great read.</p>
           <button className='w-24 h-11 bg-black text-white border-[1px] border-white rounded-3xl font-["Montserrat"] font-bold text-xs xl:h-12 xl:w-40 xl:text-sm hover:bg-white hover:text-black duration-300' onClick={() => navigate("/login")}>LOG IN</button>
           <button className='w-32 h-11 bg-black text-white border-[1px] border-white rounded-3xl font-["Montserrat"] font-meduim text-[10px] xl:h-12 xl:w-40 xl:text-xs hover:bg-white hover:text-black duration-300' onClick={()=>{navigate("/")}}>BACK TO HOME</button>
         </div>
-        <div className='bg-black bg-opacity-30 backdrop-blur-sm lg:backdrop-blur-md py-3 pt-16 px-3 mb-12 w-full sm:mb-0 xl:h-screen xl:max-w-[900px] 2xl:max-w-[1077px]'>
-          <div className='flex flex-col items-center text-white xl:justify-between xl:h-full xl:pt-32'>
+        <div className='bg-black bg-opacity-30 h-auto backdrop-blur-sm lg:backdrop-blur-md py-1 pt-16 xl:pt-16 px-3 mb-3 w-full sm:mb-0 xl:max-w-[900px] 2xl:max-w-[1077px] 2xl:min-h-[1000px]'>
+          <div className='flex flex-col gap-y-2 items-center text-white xl:justify-between xl:h-auto xl:mt-32'>
             <h1 className='font-["Montserrat"] text-white text-3xl font-light mb-7 md:text-4xl xl:text-[56px] xl:font-extralight'>SIGN UP</h1>
             {successMessage && (
               <p className='text-[#26FF00] text-xs font-medium font-["Montserrat"] mb-6 md:text-sm xl:text-base xl:font-medium'>{successMessage.toUpperCase()}</p>
@@ -166,9 +166,9 @@ const Signup=()=>{
                   />
                 </div>
                 {formData.file && (
-                  <div className="mt-2">
+                  <div>
                     {preview ? (
-                      <div className="w-full mt-2">
+                      <div className="w-auto h-auto">
                         <img src={preview} alt="Preview" className="w-12 h-12 xl:w-24 xl:h-24 object-cover" />
                       </div>
                     ) : (
