@@ -28,7 +28,7 @@ const Admin = () => {
 
                 <div className="flex flex-col items-center justify-center lg:hidden mb-5 bg-[#212121]">
                     <div className="flex items-center my-4">
-                        <img src="https://res.cloudinary.com/bookaholic/image/upload/v1722834215/wmh3g7eb7ge3vhidcazd.jpg" alt="Profile" className="w-24 h-24 rounded-full mr-4" />
+                        <img src="http://res.cloudinary.com/bookaholic/image/upload/v1723909904/wkh5njfjobyoxqjnexi6.png" alt="Profile" className="w-24 h-24 rounded-full mr-4" />
                         <div>
                             <h1 className="text-base font-bold text-white font-['Montserrat']">Shivanshu Das</h1>
                             <h1 className="text-green-400 text-xs font-bold pl-2 font-['Montserrat']">• Online</h1>
@@ -39,7 +39,7 @@ const Admin = () => {
                 <div className="flex pb-10">
                     <div className="hidden lg:block bg-[#212121] sticky top-0 h-screen w-[21%] pt-7 px-4">
                         <div className="flex flex-wrap items-center justify-center pb-7">
-                            <img src="https://res.cloudinary.com/bookaholic/image/upload/v1722834215/wmh3g7eb7ge3vhidcazd.jpg" alt="Profile" className="w-24 h-24 rounded-full mb-3 xl:mb-0 xl:mr-5" />
+                            <img src="http://res.cloudinary.com/bookaholic/image/upload/v1723909904/wkh5njfjobyoxqjnexi6.png" alt="Profile" className="w-24 h-24 rounded-full mb-3 xl:mb-0 xl:mr-5" />
                             <div className="space-y-3">
                                 <h1 className="text-white text-xl font-bold text-center font-['Montserrat']">Shivanshu Das</h1>
                                 <h1 className="text-green-400 text-base font-bold pl-2 font-['Montserrat']">• Online</h1>
