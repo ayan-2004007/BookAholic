@@ -10,21 +10,21 @@ import ScrollToTop from '../component/ScrollToTop'
 
 
 const Admin = () => {
-    const navigate=useNavigate();
-        const handleAdd=()=>{
-            navigate('/addBook')
-        }
-        const handleDelete=()=>{
-            navigate('/deleteBook')
-        }
-        const handleAll=()=>{
-            navigate('/availability')
-        }
+    const navigate = useNavigate();
+    const handleAdd = () => {
+        navigate('/addBook')
+    }
+    const handleDelete = () => {
+        navigate('/deleteBook')
+    }
+    const handleAll = () => {
+        navigate('/availability')
+    }
     return (
         <>
-        <ScrollToTop/>
+            <ScrollToTop />
             <body className="bg-[#E6FFFB] font-['Montserrat']">
-                <div className="bg-gray-800"><Navbar showLoginButton={false}/></div>
+                <div className="bg-gray-800"><Navbar showLoginButton={false} /></div>
 
                 <div className="flex flex-col items-center justify-center lg:hidden mb-5 bg-[#212121]">
                     <div className="flex items-center my-4">
@@ -95,13 +95,13 @@ const Admin = () => {
                             <table className="w-full text-center font-['Montserrat']">
                                 <thead>
                                     <tr>
-                                        <th className="px-2 md:px-4 lg:px-6 xl:px-8 py-2">Name</th>
-                                        <th className="px-2 md:px-4 lg:px-6 xl:px-8 py-2">Book Name</th>
-                                        <th className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 hidden sm:table-cell">Author Name</th>
-                                        <th className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 hidden sm:table-cell">Quantity</th>
-                                        <th className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 hidden sm:table-cell">Contact</th>
-                                        <th className="px-2 md:px-4 lg:px-6 xl:px-8 py-2">Borrow Date</th>
-                                        <th className="px-2 md:px-4 lg:px-6 xl:px-8 py-2">Return Date</th>
+                                        <th className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-xs md:text-sm lg:text-base">Name</th>
+                                        <th className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-xs md:text-sm lg:text-base">Book Name</th>
+                                        <th className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-xs md:text-sm lg:text-base hidden sm:table-cell">Author Name</th>
+                                        <th className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-xs md:text-sm lg:text-base hidden sm:table-cell">Quantity</th>
+                                        <th className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-xs md:text-sm lg:text-base hidden sm:table-cell">Contact</th>
+                                        <th className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-xs md:text-sm lg:text-base">Borrow Date</th>
+                                        <th className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-xs md:text-sm lg:text-base">Return Date</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -113,13 +113,13 @@ const Admin = () => {
                                         { name: 'Rohit Addhya', book: 'Nonte Phonte', author: 'Narayan Debnath', quantity: '1', contact: '1564656875', borrowDate: '29/6/24', returnDate: '7/7/24' }
                                     ].map((item) => (
                                         <tr className="bg-[#cdcdcd] border-b-8 border-[#E6FFFB]">
-                                            <td className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-sm md:text-base">{item.name}</td>
-                                            <td className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-sm md:text-base">{item.book}</td>
-                                            <td className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-sm md:text-base hidden sm:table-cell">{item.author}</td>
-                                            <td className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-sm md:text-base hidden sm:table-cell">{item.quantity}</td>
-                                            <td className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-sm md:text-base hidden sm:table-cell">{item.contact}</td>
-                                            <td className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-sm md:text-base">{item.borrowDate}</td>
-                                            <td className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-sm md:text-base">{item.returnDate}</td>
+                                            <td className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-xs md:text-sm lg:text-base">{item.name}</td>
+                                            <td className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-xs md:text-sm lg:text-base">{item.book}</td>
+                                            <td className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-xs md:text-sm lg:text-base hidden sm:table-cell">{item.author}</td>
+                                            <td className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-xs md:text-sm lg:text-base hidden sm:table-cell">{item.quantity}</td>
+                                            <td className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-xs md:text-sm lg:text-base hidden sm:table-cell">{item.contact}</td>
+                                            <td className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-xs md:text-sm lg:text-base">{item.borrowDate}</td>
+                                            <td className="px-2 md:px-4 lg:px-6 xl:px-8 py-2 text-xs md:text-sm lg:text-base">{item.returnDate}</td>
                                         </tr>
                                     ))}
                                 </tbody>
